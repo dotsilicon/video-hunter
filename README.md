@@ -18,7 +18,7 @@ Spielberg is a modern desktop application for downloading YouTube videos with a 
 
 ## 🖥️ Screenshots
 
-![Main UI](assets/screenshots/spielberg-screenshot.png)
+![Main UI](spielberg-screenshot.png)
 
 ---
 
