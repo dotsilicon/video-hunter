@@ -62,6 +62,11 @@ Dotsilicon Limited
 
 ---
 
+## 🔗 Download
+
+https://github.com/dotsilicon/spielberg/releases
+---
+
 ## 📄 License
 
 All rights reserved © Dotsilicon Limited
