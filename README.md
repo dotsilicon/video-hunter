@@ -1,73 +1,71 @@
-# 🎬 Spielberg – YouTube Video Downloader
+# Video Hunter - Social Video Downloader
 
-Spielberg is a modern desktop application for downloading YouTube videos with a clean interface, live quality selection, and fast performance.
+Video Hunter is a lightweight Windows desktop app for downloading videos from popular social platforms including YouTube, Facebook, Instagram, and TikTok.
 
----
+It automatically detects copied video links, loads available video qualities, and lets users download videos in their preferred resolution.
 
-## ✨ Features
+## Features
 
-- 📋 Auto-detect YouTube links from clipboard  
-- 🔗 Auto-fill video URL input box  
-- 🎥 Live per-video quality list (resolution-based)  
-- ⏯️ Start / Pause download control  
-- 📁 Custom download folder selection  
-- ⚡ Fast and reliable downloads  
-- 🧠 Clean and responsive UI  
+- Download videos from YouTube, Facebook, Instagram, and TikTok
+- Auto-detect supported copied video links
+- Manual social video URL input
+- Load available video quality options
+- Download videos in Best Available, 4K, 2K, Full HD, HD, and lower resolutions where available
+- Choose custom download folder
+- Pause, resume, and stop download controls
+- Playlist/source expansion support where available
+- Bundled FFmpeg support for video merging and processing
+- Dark themed compact desktop interface
+- Subscription-based access system
+- Privacy Policy and Terms of Use dialogs included
 
----
+## Supported Platforms
 
-## 🖥️ Screenshots
+Video Hunter currently supports Windows.
 
-![Main UI](spielberg-screenshot.png)
+## Supported Sites
 
----
+- YouTube
+- Facebook
+- Instagram
+- TikTok
 
-## 🚀 Installation
+## App Information
 
-1. Download the latest installer from Releases  
-2. Run the setup file  
-3. Follow the installation steps  
-4. Launch **Spielberg – YouTube Video Downloader**
+- App Name: Video Hunter - Social Video Downloader
+- Version: 1.0
+- Build: 38
+- Publisher: Dotsilicon Limited
+- Website: https://dotsilicon.com/apps/video-hunter/
 
----
+## How to Use
 
-## 🎯 Usage
+1. Open Video Hunter.
+2. Copy a supported social video link from YouTube, Facebook, Instagram, or TikTok.
+3. The app will detect the link automatically.
+4. Select the preferred video quality.
+5. Choose the download folder if needed.
+6. Click Start to download.
 
-1. Copy a YouTube video link  
-2. The app will automatically detect and fill the URL  
-3. Select your preferred **Video Quality**  
-4. Click **Start** to begin downloading  
-5. Use **Pause** to pause/resume  
+You can also paste or type a supported video URL manually into the Social Video Link field.
 
----
+## Download
 
-## ⚠️ Notes
+Download the latest release from the GitHub Releases page:
 
-- Internet connection is required  
-- Some videos may have limited quality options depending on availability  
+https://github.com/dotsilicon/video-hunter/releases
 
----
+## Legal Notice
 
-## 📜 Legal
+This software is intended for lawful use only. Users are responsible for ensuring they have the right to download or process any content. The developer and publisher do not endorse or support copyright infringement.
 
-This tool is intended for personal use only.  
-Downloading copyrighted content without proper rights may violate applicable laws.
+Video Hunter is not affiliated with YouTube, Facebook, Instagram, TikTok, Meta, Google, or ByteDance.
 
----
+## Publisher
 
-## 👨‍💻 Publisher
+Published by Dotsilicon Limited  
+Website: https://www.dotsilicon.com
 
-Dotsilicon Limited  
-🌐 https://dotsilicon.com  
+## License
 
----
-
-## 🔗 Download
-
-https://github.com/dotsilicon/spielberg/releases
-
----
-
-## 📄 License
-
-All rights reserved © Dotsilicon Limited
+All rights reserved by Dotsilicon Limited.
